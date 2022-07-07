@@ -11,7 +11,7 @@ console.log("Q2:", euroCities);
 
 //#3
 
-console.log("Q3:", euroCities.length);
+console.log(euroCities.length);
 //#4
 
 euroCities.pop();
