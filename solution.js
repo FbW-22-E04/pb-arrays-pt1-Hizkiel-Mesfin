@@ -31,6 +31,7 @@ console.log("Q6:", asianCities);
 //#7
 
 const worldCities = euroCities.concat(asianCities);
+worldCities.splice(2, 1);
 console.log(worldCities);
 
 //#8
